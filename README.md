@@ -1,6 +1,6 @@
 # Improving Data Accuracy in CRM using AI
 <p> A project built for ibm internship </p>
-<hr><hr><hr><hr><hr>
+<br><br><br><br><br>
 <div align = "center">
 <h2>📬 Contact</h2>
 
